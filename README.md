@@ -15,7 +15,7 @@ Descreva aqui que problema está sendo resolvido, quais as dores, o público alv
 Fale sobre a solução q está sendo proposta. Como ela tem o potencial de resolver o problema?  
 
 # Informações Técnicas
-## Gráfico explicativo  
+## Entidades  
 ![](images/entidades.png)  
 > Faça uma diagrama explicativo da estrutura do projeto, pode ser um diagrama de caso de uso, fluxograma, arquitetura do sistema, ou o que vc entender como necessário pra explicar o funcionamento da sua solução.  
 *Utilizando a extensão de VSCode: [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) é possível criar um arquivo svg editável apenas utilizando a extensão: ".drawio.svg"  
