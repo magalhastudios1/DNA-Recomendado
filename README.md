@@ -1,4 +1,7 @@
 # DNA Recomendado
+
+Sistema de Recomendação que utiliza computação evolutiva para otimizar a distribuição de estoque entre depósitos e cervejarias.
+
 ## Visão Geral  
 Esta é uma documentação modelo para os projetos do Academy Hack.  
 Aqui você deverá descrever uma visão geral do seu projeto.  
