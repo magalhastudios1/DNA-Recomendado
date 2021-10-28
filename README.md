@@ -34,4 +34,3 @@ Sugerimos a utilização de virtual enviroment para evitar falhas.
 # Time
 
 | [<img src="https://avatars3.githubusercontent.com/u/41878170?s=115&v=4" width="115"><br><sub>@magalhastudios1</sub>](https://github.com/alexandremendoncaalvaro) | 
-| :---: | :---: |
