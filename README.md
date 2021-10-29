@@ -16,12 +16,17 @@ caminhões com pouca carga
 A abordagem da Computação Evolutiva foi escolhida para o problema de otimizar a distribuição de estoque entre depósitos e cervejarias pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornar uma boa resposta em um tempo plausível.
 
 # Informações Técnicas
-## Entidades  
+## Gráfico explicativo
 ![](images/pseudocodigo.png)  
-> Faça uma diagrama explicativo da estrutura do projeto, pode ser um diagrama de caso de uso, fluxograma, arquitetura do sistema, ou o que vc entender como necessário pra explicar o funcionamento da sua solução.  
-*Utilizando a extensão de VSCode: [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) é possível criar um arquivo svg editável apenas utilizando a extensão: ".drawio.svg"  
-
-![](images/pseudocodigo.png)  
+> 1. Gera a população inicial
+> 2. Verifica se função de parada é satisfeita
+>    sim: retorna o melhor cromossomo da população
+>    não: continua
+> 3. Obtem os scores da população
+> 4. Filtra população através de torneio
+> 5. População faz reprodução
+> 6. População faz mutação
+> 7. Retorna ao passo 2
 
 ## Pré requisitos
 - Conexão com Internet
