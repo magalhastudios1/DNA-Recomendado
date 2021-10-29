@@ -15,10 +15,19 @@ Descreva aqui que problema está sendo resolvido, quais as dores, o público alv
 Fale sobre a solução q está sendo proposta. Como ela tem o potencial de resolver o problema?  
 
 # Informações Técnicas
-## Entidades  
-![](images/entidades.png)  
-> Faça uma diagrama explicativo da estrutura do projeto, pode ser um diagrama de caso de uso, fluxograma, arquitetura do sistema, ou o que vc entender como necessário pra explicar o funcionamento da sua solução.  
-*Utilizando a extensão de VSCode: [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) é possível criar um arquivo svg editável apenas utilizando a extensão: ".drawio.svg"  
+## Gráfico explicativo
+![](images/pseudocodigo.png)  
+> ```
+> 1. Gera a população inicial
+> 2. Verifica se função de parada é satisfeita
+>    sim: retorna o melhor cromossomo da população
+>    não: continua
+> 3. Obtem os scores da população
+> 4. Filtra população através de torneio
+> 5. População faz reprodução
+> 6. População faz mutação
+> 7. Retorna ao passo 2
+```
 
 ![](images/pseudocodigo.png)  
 
