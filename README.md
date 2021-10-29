@@ -1,45 +1,32 @@
 # DNA Recomendado
 
+## Visão Geral  
 Sistema de Recomendação que utiliza computação evolutiva para otimizar a distribuição de estoque entre depósitos e cervejarias.
 
-## Visão Geral  
-Esta é uma documentação modelo para os projetos do Academy Hack.  
-Aqui você deverá descrever uma visão geral do seu projeto.  
-
-[Link da Apresentação do Projeto](http://caminho.para.o.ppt)
+[Link da Apresentação do Projeto](https://storage.googleapis.com/taikai-storage/others/0cc776d0-385f-11ec-b2fd-37da095ce81aentrega_propotipacao.pdf)
 
 ### Problema  
-O problema que está sendo resolvido é o problema de otimizar a distribuição de estoque entre depósitos e cervejarias. Sabe-se que cada depósito tem propriedades como: estoque mínimo, estoque máximo, estoque balanceado, e é necessário distribuir os produtos das cervejarias a fim de suprir as demandas locais.
+Descreva aqui que problema está sendo resolvido, quais as dores, o público alvo  
 
 ### Proposta de solução  
-A abordagem da Computação Evolutiva foi escolhida para o problema pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornam uma resposta boa em um tempo plausível.
+Fale sobre a solução q está sendo proposta. Como ela tem o potencial de resolver o problema?  
 
 # Informações Técnicas
-## Gráfico explicativo
-![](images/pseudocodigo.png)  
-> ```
-> 1. Gera a população inicial
-> 2. Verifica se função de parada é satisfeita
->    sim: retorna o melhor cromossomo da população
->    não: continua
-> 3. Obtem os scores da população
-> 4. Filtra população através de torneio
-> 5. População faz reprodução
-> 6. População faz mutação
-> 7. Retorna ao passo 2
-```
+## Entidades  
+![](images/entidades.png)  
+> Faça uma diagrama explicativo da estrutura do projeto, pode ser um diagrama de caso de uso, fluxograma, arquitetura do sistema, ou o que vc entender como necessário pra explicar o funcionamento da sua solução.  
+*Utilizando a extensão de VSCode: [**Draw.io Integration**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) é possível criar um arquivo svg editável apenas utilizando a extensão: ".drawio.svg"  
 
 ![](images/pseudocodigo.png)  
 
 ## Pré requisitos
-- Sistema Operacional  
-- Linguagem Utilizada  
-- Ambiente virtual
-- Bibliotecas  
+- Conexão com Internet
+- Conta Google  
+- Navegador compatível com Google Colab
 
 ## Processo de instalação e execução
-Aqui deve conter um passo a passo auto explicável que possa ser replicado pelos avaliadores para a execução do sistema.
-Sugerimos a utilização de virtual enviroment para evitar falhas.
+Para executar o código do notebook inteiro faça os seguintes passos:
+- 
 
 
 # Time
