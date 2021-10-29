@@ -16,6 +16,7 @@ caminhões com pouca carga
 A abordagem da Computação Evolutiva foi escolhida para o problema de otimizar a distribuição de estoque entre depósitos e cervejarias pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornar uma boa resposta em um tempo plausível.
 
 # Informações Técnicas
+[Detalhamento do Código](images/code.ipynb)  
 ## Gráfico explicativo
 ![](images/pseudocodigo.png)  
 > 1. Gera a população inicial
