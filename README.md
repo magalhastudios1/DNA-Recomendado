@@ -35,9 +35,13 @@ A abordagem da Computação Evolutiva foi escolhida para o problema de otimizar 
 - Navegador compatível com Google Colab
 
 ## Processo de instalação e execução
-Para executar o código do notebook inteiro faça os seguintes passos:
-- 
-
+- Abra o notebook no colab
+- Insira o endereço da base de dados em seu Google Drive
+- ![](images/path.png)  
+- Ambiente de execução -> Redefinir o ambiente de execução para configuração inicial
+- Ambiente de execução -> Executar tudo
+- Insira o codigo de autentificação
+- ![](images/authorization.png)  
 
 # Time
 
