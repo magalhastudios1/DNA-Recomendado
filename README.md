@@ -9,10 +9,10 @@ Aqui você deverá descrever uma visão geral do seu projeto.
 [Link da Apresentação do Projeto](http://caminho.para.o.ppt)
 
 ### Problema  
-O problema que está sendo resolvido é o problema de otimização de estoques.  
+O problema que está sendo resolvido é o problema de otimizar a distribuição de estoque entre depósitos e cervejarias. Sabe-se que cada depósito tem propriedades como: estoque mínimo, estoque máximo, estoque balanceado, e é necessário distribuir os produtos das cervejarias a fim de suprir as demandas locais.
 
 ### Proposta de solução  
-A abordagem da Computação Evolutiva foi escolhida para o problema de otimizar a distribuição de estoque entre depósitos e cervejarias pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornam uma resposta próxima da ótima em um tempo plausível.
+A abordagem da Computação Evolutiva foi escolhida para o problema pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornam uma resposta boa em um tempo plausível.
 
 # Informações Técnicas
 ## Gráfico explicativo
