@@ -9,10 +9,10 @@ Aqui você deverá descrever uma visão geral do seu projeto.
 [Link da Apresentação do Projeto](http://caminho.para.o.ppt)
 
 ### Problema  
-Descreva aqui que problema está sendo resolvido, quais as dores, o público alvo  
+O problema que está sendo resolvido é o problema de otimização de estoques.  
 
 ### Proposta de solução  
-Fale sobre a solução q está sendo proposta. Como ela tem o potencial de resolver o problema?  
+A abordagem da Computação Evolutiva foi escolhida para o problema de otimizar a distribuição de estoque entre depósitos e cervejarias pois os algoritmos genéticos são flexíveis para se adequar as métricas que a Ambev gostaria de maximizar. Além disso são ótimos para lidar com problemas complexos em que se desconhece algum algoritmo ótimo que retorne a resposta em tempo polinomial, pois podem retornam uma resposta próxima da ótima em um tempo plausível.
 
 # Informações Técnicas
 ## Gráfico explicativo
